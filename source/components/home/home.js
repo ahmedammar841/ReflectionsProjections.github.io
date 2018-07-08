@@ -10,6 +10,7 @@ import Tracks from './tracks/tracks'
 import Sponsors from './sponsors/sponsors'
 import Footer from './footer/footer'
 import Photos from './photos/photos'
+import Social from './social/social'
 
 
 class Home extends Component {
@@ -26,6 +27,7 @@ class Home extends Component {
                 <About />
                 <Speakers />
                 <Sponsors />
+                <Social />
                 <Footer />
             </div>
         )

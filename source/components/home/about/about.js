@@ -72,6 +72,7 @@ class About extends Component {
     }
 
     render() {
+
         return (
             <div id="About">
                 <div className="about-grid">
@@ -105,9 +106,12 @@ class About extends Component {
                     </div>
                 </div>
                 <Photos/>
+
             </div>
         );
     }
 }
+
+
 
 export default About

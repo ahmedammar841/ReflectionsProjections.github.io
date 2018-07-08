@@ -38,7 +38,7 @@ class Speakers extends Component {
                 'img': '../assets/img/keynotes/jay.jpg',
 
                 'year': 'Creator of Cydia',
-                'wikipedia': 'https://en.wikipedia.org/wiki/Jay_Freeman'
+                'wikipedia': 'https://en.wikipedia.org/wiki/Jay_Freeman',
                 'year': 'Creator of Cydia'
             },
             {
